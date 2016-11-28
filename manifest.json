@@ -1,0 +1,35 @@
+{
+  "name": "The progressive",
+  "short_name": "the progressive",
+  "icons": [{
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "img1.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+"start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3"
+}
